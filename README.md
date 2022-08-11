@@ -5,7 +5,10 @@ Tutor: [Mayk Brito](https://github.com/maykbrito)
 Using HTML and CSS, create a simple Helthy Menu with QR Code.
 
 ## Class 1:
-Initial concepts of HTML and some initial tags of the project.
+Undestanding the concepts of HTML and some initial tags of the project.
+
+## Class 2:
+Understanding the concepts of CSS. Also applied all the style we need for this project. 
 
 ## Studying with:
  * [Rocketseat Oficial Website](https://www.rocketseat.com.br/)
